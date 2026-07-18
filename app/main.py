@@ -42,4 +42,3 @@ async def get_data():
         "served_by": INSTANCE_ID,
         "hostname": HOSTNAME
     }
-    
